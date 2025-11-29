@@ -3,6 +3,9 @@
 This project implements and compares several **Part-of-Speech (POS) taggers**
 in Python using the [NLTK](https://www.nltk.org/) library.
 
+This Project Originally developed between May 2024 and July 2024; uploaded to GitHub in November 2025.
+
+
 The models are trained and evaluated on **two English corpora**:
 
 1. **Brown Corpus (news category)** – classic POS-tagged corpus.
@@ -66,4 +69,5 @@ data/
     en_ewt-ud-train.conllu
     en_ewt-ud-dev.conllu
     en_ewt-ud-test.conllu
+
 
